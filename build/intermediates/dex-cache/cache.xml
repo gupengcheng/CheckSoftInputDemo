@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_21262989143323816a09c9d7d6564b209dc84928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ef791ed39531ca783ad8ea017f45d6cc3e570e58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_8ae51c53e7657bca30fad86e661e76191c22c89a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_65eef2de1bd9fe9af349ea2b082e43007e098038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b073b0b4a05bcd7f27fc829d1dc11f9454520e56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_afbad57dec420bf6e714125c150c512c74fd7651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_098fb2df5eb1ef9fdb303fe451f4852c140ef4ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_942217bf14006da45e911415ae73a3bdd31eb5c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_77939fbf1010ffd5b731a7819ffac74676285986.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_9d7cbb08f6aadae5d3f5e4d7087b0f28138aa332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_99b9222fdaf9067bf9e63aff9b9b95acf9c9f2ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_d2eda4a0c138f200dcc6aab6b1690a0459c38965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_744f741ba551e1ffc3b866c2e36581fcde20b2a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_4b1ccdfc1bf6cfad15e5653f3f3c7f539c59f1de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_22a2cf40caf80d0f3875c7f92f4c0e6936255d87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_1dc9a42d528d0456d87a33f2474fbc0d3fe9d94b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_81b144a621eb69e57725280416300d57509e825b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/gupengcheng/Documents/mySpace/CheckSoftInput/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_04a1b9b4a6e98f340118d2acfd2a91a9d504dd17.jar" />
+    </item>
+
+</items>

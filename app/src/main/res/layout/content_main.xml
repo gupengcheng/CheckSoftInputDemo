@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.gupengcheng.checksoftinput.CheckSoftInputLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.gupengcheng.checksoftinput.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top|center_horizontal"
+        android:background="@mipmap/timg" />
+
+    <RelativeLayout
+        android:id="@+id/rl_post_comment"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom"
+        android:background="#f6f6f6">
+
+        <TextView
+            android:id="@+id/btn_post_comment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:paddingLeft="9dp"
+            android:paddingRight="9dp"
+            android:text="Post"
+            android:textColor="@android:color/holo_green_light"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/edt_comment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="6dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="6dp"
+            android:layout_toLeftOf="@id/btn_post_comment"
+            android:background="@drawable/shape_edt_bg"
+            android:cursorVisible="true"
+            android:gravity="center_vertical"
+            android:lineSpacingExtra="4dp"
+            android:maxLength="150"
+            android:minHeight="48dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textColor="#ff353535"
+            android:textSize="14sp" />
+    </RelativeLayout>
+</com.gupengcheng.checksoftinput.CheckSoftInputLayout>
